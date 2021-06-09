@@ -1,1 +1,1 @@
-# A simples REST API with Django Rest Framework
+# A simple REST API with Django Rest Framework
